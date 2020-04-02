@@ -1,0 +1,12 @@
+Superglobal== provide by server
+
+List of supergloabals
+
+1.$GLOBALS
+2.$_SERVER
+3.$_REQUEST
+4.$_GET
+5.$_POST
+6.$_FILES
+7.$_COOKIE
+8.$_SESSION
